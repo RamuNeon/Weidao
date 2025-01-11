@@ -1,0 +1,10 @@
+     {
+       "version": "1.0.1",
+       "build": 2,
+       "minimum_required": "1.0.0",
+       "download_url": "https://weidao.netlify.app/",
+       "release_notes": [
+         "1. 修复xxx问题",
+         "2. 新增xxx功能"
+       ]
+     }
